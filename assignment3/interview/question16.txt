@@ -1,0 +1,6 @@
+To optimize the performance of a React application
+
+1.  Use React.memo to memoize functional components.
+2.  Use useCallback and useMemo hooks.
+3.  Optimize re-renders by using key props and pure components.
+4.  Lazy load components with React.lazy and Suspense

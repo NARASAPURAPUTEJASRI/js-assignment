@@ -1,0 +1,16 @@
+To  use React with TypeScript
+
+1. Install TypeScript and relevant types:
+
+npm install typescript @types/react @types/react-dom
+
+2. Use .tsx files for components and define prop types and state types using TypeScript interfaces or types
+
+interface MyComponentProps {
+    title: string;
+  }
+  
+  const MyComponent: React.FC<MyComponentProps> = ({ title }) => {
+    return <h1>{title}</h1>;
+  };
+  

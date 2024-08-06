@@ -1,0 +1,3 @@
+To use React DevTools for debugging
+Install the React DevTools extension in your browser.
+Use it to inspect the component hierarchy, props, state, and see how components update in real time

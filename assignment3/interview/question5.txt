@@ -1,0 +1,4 @@
+//The difference between a controlled and uncontrolled component in React
+
+Controlled components have their state controlled by React using state and setState.
+Uncontrolled components store their own state internally and use refs to access the DOM values

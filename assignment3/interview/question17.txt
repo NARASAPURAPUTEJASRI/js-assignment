@@ -1,0 +1,2 @@
+The purpose of the shouldComponentUpdate() method in a React component
+It allows you to prevent a component from re-rendering if certain conditions are met, which can improve performance.

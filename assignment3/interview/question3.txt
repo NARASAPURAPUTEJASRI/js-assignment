@@ -1,0 +1,2 @@
+The purpose of the render() method in a React component
+The render() method is required in class components. It returns the JSX that defines what the UI should look like.

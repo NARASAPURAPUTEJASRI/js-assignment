@@ -1,0 +1,3 @@
+The purpose of the key prop in a React component
+The key prop helps React identify which items have changed, are added, or are removed.
+ It's crucial for efficient updates to the list.

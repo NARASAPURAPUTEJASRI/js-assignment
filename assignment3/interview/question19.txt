@@ -1,0 +1,4 @@
+The difference between a Higher-Order Component (HOC) and a Render Props pattern in React
+
+HOCs are functions that take a component and return a new component.
+Render props are techniques for sharing code between components using a prop whose value is a function

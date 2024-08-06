@@ -1,0 +1,3 @@
+The difference between a functional component and a class component in React
+Functional components are simpler and do not have state or lifecycle methods (before hooks). They are simply functions.
+Class components can hold and manage state, and have lifecycle methods

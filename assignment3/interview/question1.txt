@@ -1,0 +1,7 @@
+The difference between var ,let and const keywords
+
+var is function scoped which is redeclared and updatable.
+
+let is block scoped which is updatable and not redeclarable
+
+const is block scoped which is not updatable and not redeclarable
